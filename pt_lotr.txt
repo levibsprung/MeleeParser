@@ -3198,3 +3198,833 @@ Matthew Minniear
 	Berk Elçi
 	Izzet Murktide
 	Berk Elçi won 2-1-0
+Simon Nielsen
+	Mono-Green Tron
+	Kai Budde
+	Temur Rhinos
+	Simon Nielsen won 2-1-0
+Marei Okamura
+	Rakdos Evoke
+	Javier Dominguez
+	Mono-Green Tron
+	Javier Dominguez won 2-0-0
+Gabriel Nassif
+	Living End
+	Martin Dominguez
+	Four-Color Omnath
+	Martin Dominguez won 2-1-0
+Toru Inoue
+	Mono-Green Tron
+	Kazune Kosaka
+	Rakdos Evoke
+	Kazune Kosaka won 2-0-0
+Christian Calcano
+	Mono-Green Tron
+	Greg Orange
+	Four-color Control
+	Christian Calcano won 2-0-0
+Francesco Latorre
+	Rakdos Evoke
+	Dominic Harvey
+	Amulet Titan
+	Dominic Harvey won 2-0-0
+Marco Del Pivo
+	Temur Rhinos
+	Jacob Wilson
+	Temur Rhinos
+	Marco Del Pivo won 2-1-0
+Mingyang Chen
+	Temur Rhinos
+	Georgios Volakis
+	Boros Burn
+	Mingyang Chen won 2-1-0
+Kenta Harane
+	Four-Color Omnath
+	Kevin Anctil
+	Temur Rhinos
+	Kevin Anctil won 2-1-0
+Alexander Hayne
+	Mono-Green Tron
+	Stefano Vinci
+	Temur Rhinos
+	Alexander Hayne won 2-1-0
+Zen Takahashi
+	Living End
+	Jake Beardsley
+	Rakdos Evoke
+	Jake Beardsley won 2-0-0
+Yiren Jiang
+	Five-Color Creativity
+	Sean Goddard
+	Five-Color Creativity
+	Sean Goddard won 2-1-0
+Tomáš Jirkal
+	Four-Color Omnath
+	Tin Mihael Capar
+	Five-Color Creativity
+	Tin Mihael Capar won 2-0-0
+Ben Jones
+	Four-Color Rhinos
+	Andy Garcia-Romo
+	Rakdos Evoke
+	Andy Garcia-Romo won 2-0-0
+Joe Dixon
+	Four-Color Omnath
+	André Santos
+	Rakdos Evoke
+	André Santos won 2-0-0
+Miguel Castro
+	Five-Color Creativity
+	Seb Rohan
+	Rakdos Evoke
+	Seb Rohan won 2-0-0
+Daniel Goetschel
+	Four-Color Rhinos
+	Stefan Schütz
+	Izzet Murktide
+	Daniel Goetschel won 2-0-0
+Kazuya Murakami
+	Mono-Green Tron
+	Tal Hutson
+	Mono-Black Coffers
+	Kazuya Murakami won 2-0-0
+Yi Yang
+	Four-color Control
+	Lorenzo Terlizzi
+	Living End
+	Yi Yang won 2-1-0
+Matti Kuisma
+	Mono-Green Tron
+	Mitchell Tamblyn
+	Four-Color Omnath
+	Matti Kuisma won 2-0-0
+Wojciech Kowalczuk
+	Golgari Yawgmoth
+	Kim Berle
+	Golgari Yawgmoth
+	Kim Berle won 2-1-0
+Nathan Steuer
+	Mono-Green Tron
+	Joonas Eloranta
+	Mono-Green Tron
+	Joonas Eloranta won 2-1-0
+Edgar Magalhaes
+	Temur Rhinos
+	hiroki asaumi
+	Grixis Shadow
+	Edgar Magalhaes won 2-1-0
+Socrates Rozakeas
+	Rakdos Evoke
+	Zachary Kiihne
+	Mono-Green Tron
+	Socrates Rozakeas won 2-1-0
+shuhei nakamura
+	Rakdos Evoke
+	Jesús Solano
+	Rakdos Evoke
+	shuhei nakamura won 2-0-0
+Benton Madsen
+	Rakdos Evoke
+	Zihao Ji
+	Golgari Yawgmoth
+	Benton Madsen won 2-0-0
+MagicofPlayer1
+	Four-Color Rhinos
+	Brian Zilles
+	Four-Color Omnath
+	Brian Zilles won 2-1-0
+Connor Laehn
+	Affinity
+	Marco cammilluzzi
+	Temur Rhinos
+	Marco cammilluzzi won 2-1-0
+Christopher Kemple
+	Four-Color Omnath
+	Matthew Anderson
+	Dimir Control
+	Matthew Anderson won 2-0-0
+GliedTamas
+	Mono-Black Grief
+	__DELBAS
+	Rakdos Evoke
+	__DELBAS won 2-0-0
+Bart Van Etten
+	Dimir Control
+	Beenew
+	Rakdos Evoke
+	Beenew won 2-0-0
+Samuel Pardee
+	Samwise Gamgee Combo
+	Jack Potter
+	Amulet Titan
+	Samuel Pardee won 2-0-0
+Marco Vassallo
+	Five-color Reanimator
+	Alexander Rohan
+	Living End
+	Marco Vassallo won 2-0-0
+Nico Bohny
+	Four-Color Rhinos
+	Samuel Chang
+	Izzet Control
+	Nico Bohny won 2-0-0
+Brent Vos
+	Rakdos Evoke
+	YANG FENG
+	Four-Color Omnath
+	YANG FENG won 2-0-0
+Franck Pappas
+	Izzet Murktide
+	olivier ruel-mailfert
+	Dimir Mill
+	Franck Pappas won 2-0-0
+Karl Sarap
+	Rakdos Evoke
+	jitse goutbeek
+	Four-Color Rhinos
+	jitse goutbeek won 2-0-0
+Tommy Ashton
+	Rakdos Evoke
+	T.J. Gullo
+	Rakdos Evoke
+	Tommy Ashton won 2-1-0
+Anthony Lee
+	Mono-Green Tron
+	Giona Cai
+	Mono-Black Coffers
+	Giona Cai won 2-0-0
+Nils Gutiérrez von Porat
+	Izzet Breach
+	Yuuki Ichikawa
+	Four-Color Omnath
+	Nils Gutiérrez von Porat won 2-1-0
+Eli Kassis
+	Samwise Gamgee Combo
+	Quinn Tonole
+	Boros Burn
+	Eli Kassis won 2-1-0
+Kyle Gellert
+	Izzet Murktide
+	jiao hongchen
+	Rakdos Evoke
+	Kyle Gellert won 2-1-0
+Sui Dong
+	Five-Color Omnath
+	Seth Manfield
+	Rakdos Evoke
+	Seth Manfield won 2-0-0
+Alan Andrzejewski
+	Four-Color Rhinos
+	Kelvin Hoon
+	Dimir Control
+	Alan Andrzejewski won 2-1-0
+Jonathan Danz
+	Boros Burn
+	Jia Wu
+	Esper Control
+	Jia Wu won 2-1-0
+Michael Cieszinski
+	Boros Burn
+	Cole Cunningham
+	Four-Color Omnath
+	Michael Cieszinski won 2-0-0
+gabriel martinez
+	Mono-Green Tron
+	martos
+	Mono-Green Tron
+	martos won 2-1-0
+Liam Kane
+	Rakdos Evoke
+	Matthew Johnson
+	Golgari Yawgmoth
+	Liam Kane won 2-1-0
+Panagiotis Savvidis
+	Rakdos Evoke
+	Marc Tobiasch
+	Jeskai Breach
+	Panagiotis Savvidis won 2-1-0
+Tom Kessler
+	Rakdos Evoke
+	Alexander von Stange
+	Four-Color Omnath
+	Tom Kessler won 2-1-0
+matheusponciano
+	Dimir Control
+	Abe Corrigan
+	Mono-Green Tron
+	Abe Corrigan won 2-0-0
+Evart Moughon
+	Golgari Yawgmoth
+	Adriano Moscato
+	Rakdos Evoke
+	Adriano Moscato won 2-1-0
+Miguel Simões
+	Rakdos Evoke
+	Marco Orellana
+	Dimir Control
+	Miguel Simões won 2-1-0
+Robert Anderson
+	Esper Control
+	Malekz
+	Five-Color Creativity
+	Malekz won 2-1-0
+Jia Bin
+	Dimir Control
+	Jan Pruchniewicz
+	Four-color Control
+	Jan Pruchniewicz won 2-0-0
+Weng Heng Soh
+	Four-Color Omnath
+	Sze-Hang Chan
+	Dimir Control
+	Sze-Hang Chan won 2-0-0
+Patrick Richardson
+	Jeskai Breach
+	Derrick Davis
+	Four-Color Omnath
+	Derrick Davis won 2-1-0
+Marc Peral
+	Azorius Hammer
+	Robert Smith
+	Mono-Green Tron
+	Marc Peral won 2-0-0
+Shota Yasooka
+	Rakdos Evoke
+	Matias Leveratto
+	Living End
+	Shota Yasooka won 2-0-0
+Robert Graves
+	Urza ThopterSword
+	Tomoaki Ogasawara
+	Rakdos Evoke
+	Robert Graves won 2-1-0
+Takumi Matsuura
+	Rakdos Evoke
+	CHENG YU CHANG
+	Golgari Yawgmoth
+	Takumi Matsuura won 2-1-0
+Arne Huschenbeth
+	Temur Rhinos
+	SHOGO KONDO
+	Four-Color Omnath
+	SHOGO KONDO won 2-1-0
+Bernardo Torres
+	Dimir Control
+	Willy Edel
+	Rakdos Evoke
+	Bernardo Torres won 2-0-0
+Marcio Carvalho
+	Rakdos Evoke
+	Agustin Colombo
+	Urza ThopterSword
+	Marcio Carvalho won 2-0-0
+Joseph Sclauzero
+	Golgari Yawgmoth
+	Brendon Johnson
+	Four-Color Omnath
+	Joseph Sclauzero won 2-0-0
+Kazi Baker
+	Dimir Control
+	Yuta Takahashi
+	Rakdos Evoke
+	Kazi Baker won 2-1-0
+Pedro Perrini
+	Living End
+	Rob Pisano
+	Four-Color Omnath
+	Pedro Perrini won 2-1-0
+Yasunobu Anzai
+	Dimir Mill
+	徐 堉程
+	Rakdos Evoke
+	徐 堉程 won 2-1-0
+David Olsen
+	Jeskai Breach
+	claudio miranda
+	Golgari Yawgmoth
+	claudio miranda won 2-1-0
+Jpsn54
+	Dimir Murktide
+	Hideki Yoshioka
+	Rakdos Evoke
+	Hideki Yoshioka won 2-0-0
+NicolasB
+	Rakdos Evoke
+	Keisuke Naitou
+	Living End
+	NicolasB won 2-0-0
+Derek Blaiotta
+	Rakdos Evoke
+	Patrick Wu
+	Jeskai Control
+	Derek Blaiotta won 2-0-0
+Jordan Berkowitz
+	Four-Color Omnath
+	Teyi
+	Golgari Yawgmoth
+	Teyi won 2-1-0
+Daniel Vigo Rivera
+	Four-color Control
+	Jim Davis
+	Golgari Yawgmoth
+	Jim Davis won 2-1-0
+RICHMOND TAN
+	Dimir Control
+	Daniel Kristoff
+	Merfolk
+	Daniel Kristoff won 2-0-0
+Thomas Gunn
+	Mono-White Hammer
+	健涛 莫
+	Boros Burn
+	Thomas Gunn won 2-0-0
+Linden Koot
+	Living End
+	Tristan Wylde-LaRue
+	Living End
+	1-1-0 Draw
+Lee Shi Tian
+	Mono-Green Tron
+	Piotr Szyiński
+	Mono-Green Tron
+	1-1-0 Draw
+thomas mechin
+	Temur Rhinos
+	David Inglis
+	Rakdos Evoke
+	thomas mechin won 2-0-0
+Thomas Vanko
+	Mono-Green Tron
+	Christoffer Larsen
+	Rakdos Evoke
+	Christoffer Larsen won 2-1-0
+Álvaro Almeida
+	Amulet Titan
+	satoshi nakayama
+	Mono-Black Coffers
+	Álvaro Almeida won 2-0-0
+Robert Steiner
+	Mono-Green Tron
+	Jesús Adán Calzada Tovar
+	Rakdos Evoke
+	Robert Steiner won 1-0-0
+Kamil Penier
+	Azorius Hammer
+	Daniel Goresht
+	Rakdos Evoke
+	Kamil Penier won 2-1-0
+Simon Nielsen
+	Mono-Green Tron
+	Javier Dominguez
+	Mono-Green Tron
+	Javier Dominguez won 2-0-0
+Martin Dominguez
+	Four-Color Omnath
+	Christian Calcano
+	Mono-Green Tron
+	Christian Calcano won 2-1-0
+Kazune Kosaka
+	Rakdos Evoke
+	Mingyang Chen
+	Temur Rhinos
+	Kazune Kosaka won 2-1-0
+Gabriel Nassif
+	Living End
+	Kai Budde
+	Temur Rhinos
+	Gabriel Nassif won 2-0-0
+Jake Beardsley
+	Rakdos Evoke
+	Tin Mihael Capar
+	Five-Color Creativity
+	Jake Beardsley won 2-1-0
+Alexander Hayne
+	Mono-Green Tron
+	Kevin Anctil
+	Temur Rhinos
+	1-1-0 Draw
+Andy Garcia-Romo
+	Rakdos Evoke
+	Dominic Harvey
+	Amulet Titan
+	Dominic Harvey won 2-1-0
+Marei Okamura
+	Rakdos Evoke
+	Sean Goddard
+	Five-Color Creativity
+	Sean Goddard won 2-0-0
+Marco Del Pivo
+	Temur Rhinos
+	André Santos
+	Rakdos Evoke
+	Marco Del Pivo won 2-1-0
+Toru Inoue
+	Mono-Green Tron
+	Seb Rohan
+	Rakdos Evoke
+	Seb Rohan won 2-1-0
+Greg Orange
+	Four-color Control
+	Francesco Latorre
+	Rakdos Evoke
+	Greg Orange won 2-1-0
+Benton Madsen
+	Rakdos Evoke
+	Tomáš Jirkal
+	Four-Color Omnath
+	Tomáš Jirkal won 2-0-0
+Brian Zilles
+	Four-Color Omnath
+	Samuel Pardee
+	Samwise Gamgee Combo
+	Brian Zilles won 2-1-0
+shuhei nakamura
+	Rakdos Evoke
+	Kazuya Murakami
+	Mono-Green Tron
+	Kazuya Murakami won 2-1-0
+Beenew
+	Rakdos Evoke
+	Jacob Wilson
+	Temur Rhinos
+	Jacob Wilson won 2-0-0
+Stefano Vinci
+	Temur Rhinos
+	Matthew Anderson
+	Dimir Control
+	Stefano Vinci won 2-1-0
+Kenta Harane
+	Four-Color Omnath
+	Yi Yang
+	Four-color Control
+	1-1-0 Draw
+Joe Dixon
+	Four-Color Omnath
+	Joonas Eloranta
+	Mono-Green Tron
+	Joonas Eloranta won 2-0-0
+Ben Jones
+	Four-Color Rhinos
+	Yiren Jiang
+	Five-Color Creativity
+	Yiren Jiang won 2-0-0
+Marco Vassallo
+	Five-color Reanimator
+	Nico Bohny
+	Four-Color Rhinos
+	Marco Vassallo won 2-0-0
+__DELBAS
+	Rakdos Evoke
+	Marco cammilluzzi
+	Temur Rhinos
+	Marco cammilluzzi won 2-1-0
+Zen Takahashi
+	Living End
+	Daniel Goetschel
+	Four-Color Rhinos
+	Daniel Goetschel won 2-1-0
+Edgar Magalhaes
+	Temur Rhinos
+	Socrates Rozakeas
+	Rakdos Evoke
+	Socrates Rozakeas won 2-1-0
+Georgios Volakis
+	Boros Burn
+	Matti Kuisma
+	Mono-Green Tron
+	Matti Kuisma won 2-1-0
+Kim Berle
+	Golgari Yawgmoth
+	YANG FENG
+	Four-Color Omnath
+	Kim Berle won 2-1-0
+jitse goutbeek
+	Four-Color Rhinos
+	Miguel Castro
+	Five-Color Creativity
+	Miguel Castro won 2-0-0
+Franck Pappas
+	Izzet Murktide
+	Christopher Kemple
+	Four-Color Omnath
+	Franck Pappas won 2-0-0
+Wojciech Kowalczuk
+	Golgari Yawgmoth
+	Derrick Davis
+	Four-Color Omnath
+	Derrick Davis won 2-1-0
+Lorenzo Terlizzi
+	Living End
+	MagicofPlayer1
+	Four-Color Rhinos
+	MagicofPlayer1 won 2-1-0
+Panagiotis Savvidis
+	Rakdos Evoke
+	hiroki asaumi
+	Grixis Shadow
+	hiroki asaumi won 2-0-0
+Alan Andrzejewski
+	Four-Color Rhinos
+	Miguel Simões
+	Rakdos Evoke
+	Miguel Simões won 2-0-0
+Nathan Steuer
+	Mono-Green Tron
+	Takumi Matsuura
+	Rakdos Evoke
+	Takumi Matsuura won 2-1-0
+Connor Laehn
+	Affinity
+	Zachary Kiihne
+	Mono-Green Tron
+	Zachary Kiihne won 2-0-0
+Malekz
+	Five-Color Creativity
+	Sze-Hang Chan
+	Dimir Control
+	Sze-Hang Chan won 2-1-0
+Nils Gutiérrez von Porat
+	Izzet Breach
+	SHOGO KONDO
+	Four-Color Omnath
+	SHOGO KONDO won 2-1-0
+Jack Potter
+	Amulet Titan
+	Jia Wu
+	Esper Control
+	Jia Wu won 2-0-0
+Jan Pruchniewicz
+	Four-color Control
+	Adriano Moscato
+	Rakdos Evoke
+	Jan Pruchniewicz won 2-1-0
+Mitchell Tamblyn
+	Four-Color Omnath
+	Alexander Rohan
+	Living End
+	Alexander Rohan won 2-0-0
+Jesús Solano
+	Rakdos Evoke
+	Shota Yasooka
+	Rakdos Evoke
+	Shota Yasooka won 2-0-0
+Eli Kassis
+	Samwise Gamgee Combo
+	GliedTamas
+	Mono-Black Grief
+	Eli Kassis won 2-1-0
+Brent Vos
+	Rakdos Evoke
+	Kyle Gellert
+	Izzet Murktide
+	Brent Vos won 2-1-0
+Zihao Ji
+	Golgari Yawgmoth
+	Samuel Chang
+	Izzet Control
+	Zihao Ji won 2-0-0
+Bernardo Torres
+	Dimir Control
+	martos
+	Mono-Green Tron
+	Bernardo Torres won 2-1-0
+Bart Van Etten
+	Dimir Control
+	Tommy Ashton
+	Rakdos Evoke
+	Bart Van Etten won 2-0-0
+Stefan Schütz
+	Izzet Murktide
+	Liam Kane
+	Rakdos Evoke
+	Stefan Schütz won 2-1-0
+Abe Corrigan
+	Mono-Green Tron
+	Seth Manfield
+	Rakdos Evoke
+	Seth Manfield won 2-0-0
+Michael Cieszinski
+	Boros Burn
+	Robert Graves
+	Urza ThopterSword
+	Robert Graves won 2-1-0
+Tom Kessler
+	Rakdos Evoke
+	Tal Hutson
+	Mono-Black Coffers
+	Tom Kessler won 2-1-0
+Marc Peral
+	Azorius Hammer
+	Giona Cai
+	Mono-Black Coffers
+	Marc Peral won 2-0-0
+olivier ruel-mailfert
+	Dimir Mill
+	Marcio Carvalho
+	Rakdos Evoke
+	Marcio Carvalho won 2-0-0
+Joseph Sclauzero
+	Golgari Yawgmoth
+	Karl Sarap
+	Rakdos Evoke
+	Karl Sarap won 2-0-0
+claudio miranda
+	Golgari Yawgmoth
+	Teyi
+	Golgari Yawgmoth
+	Teyi won 2-0-0
+Daniel Kristoff
+	Merfolk
+	Robert Smith
+	Mono-Green Tron
+	Robert Smith won 2-0-0
+Marc Tobiasch
+	Jeskai Breach
+	matheusponciano
+	Dimir Control
+	Marc Tobiasch won 2-1-0
+Matthew Johnson
+	Golgari Yawgmoth
+	Yuuki Ichikawa
+	Four-Color Omnath
+	Yuuki Ichikawa won 2-1-0
+jiao hongchen
+	Rakdos Evoke
+	thomas mechin
+	Temur Rhinos
+	thomas mechin won 2-1-0
+Robert Anderson
+	Esper Control
+	Kelvin Hoon
+	Dimir Control
+	Kelvin Hoon won 2-1-0
+Marco Orellana
+	Dimir Control
+	Derek Blaiotta
+	Rakdos Evoke
+	Derek Blaiotta won 2-1-0
+Kazi Baker
+	Dimir Control
+	Christoffer Larsen
+	Rakdos Evoke
+	Christoffer Larsen won 2-1-0
+Arne Huschenbeth
+	Temur Rhinos
+	Evart Moughon
+	Golgari Yawgmoth
+	Arne Huschenbeth won 2-0-0
+Jia Bin
+	Dimir Control
+	Hideki Yoshioka
+	Rakdos Evoke
+	Hideki Yoshioka won 2-0-0
+Matias Leveratto
+	Living End
+	Sui Dong
+	Five-Color Omnath
+	Sui Dong won 2-0-0
+Jonathan Danz
+	Boros Burn
+	Thomas Gunn
+	Mono-White Hammer
+	Thomas Gunn won 2-0-0
+CHENG YU CHANG
+	Golgari Yawgmoth
+	NicolasB
+	Rakdos Evoke
+	CHENG YU CHANG won 2-0-0
+gabriel martinez
+	Mono-Green Tron
+	徐 堉程
+	Rakdos Evoke
+	徐 堉程 won 2-1-0
+Jim Davis
+	Golgari Yawgmoth
+	Quinn Tonole
+	Boros Burn
+	Jim Davis won 2-0-0
+Weng Heng Soh
+	Four-Color Omnath
+	T.J. Gullo
+	Rakdos Evoke
+	Weng Heng Soh won 2-0-0
+Tomoaki Ogasawara
+	Rakdos Evoke
+	Anthony Lee
+	Mono-Green Tron
+	Tomoaki Ogasawara won 2-0-0
+Alexander von Stange
+	Four-Color Omnath
+	Cole Cunningham
+	Four-Color Omnath
+	Alexander von Stange won 2-1-0
+Patrick Richardson
+	Jeskai Breach
+	Pedro Perrini
+	Living End
+	Patrick Richardson won 2-1-0
+Willy Edel
+	Rakdos Evoke
+	Linden Koot
+	Living End
+	Linden Koot won 2-0-0
+Agustin Colombo
+	Urza ThopterSword
+	Piotr Szyiński
+	Mono-Green Tron
+	Piotr Szyiński won 2-0-0
+Lee Shi Tian
+	Mono-Green Tron
+	Brendon Johnson
+	Four-Color Omnath
+	Lee Shi Tian won 2-0-0
+Robert Steiner
+	Mono-Green Tron
+	Kamil Penier
+	Azorius Hammer
+	Robert Steiner won 2-1-0
+David Olsen
+	Jeskai Breach
+	Yuta Takahashi
+	Rakdos Evoke
+	David Olsen won 2-1-0
+Yasunobu Anzai
+	Dimir Mill
+	Rob Pisano
+	Four-Color Omnath
+	Yasunobu Anzai won 2-0-0
+Keisuke Naitou
+	Living End
+	Tristan Wylde-LaRue
+	Living End
+	Tristan Wylde-LaRue won 2-1-0
+David Inglis
+	Rakdos Evoke
+	CHYE HWEE HENG
+	Rakdos Evoke
+	David Inglis won 2-0-0
+Jpsn54
+	Dimir Murktide
+	RICHMOND TAN
+	Dimir Control
+	Jpsn54 won 2-0-0
+Álvaro Almeida
+	Amulet Titan
+	Thomas Vanko
+	Mono-Green Tron
+	Álvaro Almeida won 2-1-0
+Daniel Vigo Rivera
+	Four-color Control
+	Jordan Berkowitz
+	Four-Color Omnath
+	Daniel Vigo Rivera won 2-0-0
+健涛 莫
+	Boros Burn
+	Daniel Goresht
+	Rakdos Evoke
+	Daniel Goresht won 2-0-0
+satoshi nakayama
+	Mono-Black Coffers
+	Jesús Adán Calzada Tovar
+	Rakdos Evoke
+	satoshi nakayama won 2-0-0
