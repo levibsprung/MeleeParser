@@ -4,7 +4,7 @@ player_df = pd.DataFrame(columns=['Name', 'Deck', 'Match W', 'Match L', 'Game W'
 matchup_df = pd.DataFrame(columns=['Deck', 'Opposing Deck', 'Match W', 'Match L', 'Game W', 'Game L'])
 
 
-with open('pt_lotr.txt', 'r', encoding='ISO-8859-1') as file:
+with open('worlds_lv.txt', 'r', encoding='ISO-8859-1') as file:
     while True:
         line = file.readline()
         if not line:
@@ -24,7 +24,7 @@ with open('pt_lotr.txt', 'r', encoding='ISO-8859-1') as file:
         else:
             continue
         
-        if winning_name == name1:
+        if winning_name in name1:
             player1_w = result[0]
             player1_l = result[1]
             player1_mw = 1
@@ -54,7 +54,10 @@ with open('pt_lotr.txt', 'r', encoding='ISO-8859-1') as file:
             player_df.at[index, 'Match L'] += player1_mw
             player_df.at[index, 'Game W'] += player1_l
             player_df.at[index, 'Game L'] += player1_w
-            
+        
+        if deck1 == deck2:
+            continue
+        
         row1 = matchup_df[(matchup_df['Deck'] == deck1) & (matchup_df['Opposing Deck'] == deck2)]
         row2 = matchup_df[(matchup_df['Deck'] == deck2) & (matchup_df['Opposing Deck'] == deck1)]
         if not row1.empty:
@@ -73,14 +76,14 @@ with open('pt_lotr.txt', 'r', encoding='ISO-8859-1') as file:
         else:
             matchup_df.loc[len(matchup_df)] = [deck1, deck2, player1_mw, player1_ml, player1_w, player1_l]
             matchup_df.loc[len(matchup_df)] = [deck2, deck1, player1_ml, player1_mw, player1_l, player1_w]
-            
+print(matchup_df[matchup_df['Deck'] == 'Selesnya Enchantments'])            
             
 deck_df = matchup_df.groupby("Deck", as_index=False).agg({"Match W": "sum", "Match L": "sum"})
 deck_df['winrate'] = deck_df['Match W']/(deck_df['Match W'] + deck_df['Match L']) 
 deck_df.sort_values(by='winrate', ascending=False, inplace=True)            
         
 player_df.sort_values(by=['Match W', 'Game W'], ascending=False, inplace=True)
-            
-            
+deck_df['winrate'] = round(deck_df['winrate']*100, 2)     
+        
 for row in deck_df.itertuples(index=False):
-    print(f"{row[0]}: {round(row[3]*100, 2)}% ({row[1]}-{row[2]})")
+    print(f"{row[0]}: {row[3]}% ({row[1]}-{row[2]})")
