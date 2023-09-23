@@ -958,3 +958,128 @@
 	Keisuke Sato
 	Golgari Midrange
 	Keisuke Sato won 2-0-0
+1	Reid Duke
+	Domain Ramp
+	Anthony Lee
+	Golgari Midrange
+	Reid Duke won 2-1-0
+2	Simon Nielsen
+	Azorius Soldiers
+	jitse goutbeek
+	Selesnya Enchantments
+	Simon Nielsen won 2-0-0
+3	Eli Kassis
+	Domain Control
+	Kenji Sego
+	Esper Midrange
+	Kenji Sego won 2-1-0
+4	Jean-Emmanuel Depraz
+	Esper Legends
+	Ken Takahama
+	Esper Midrange
+	Ken Takahama won 2-1-0
+5	Greg Orange
+	Bant Control
+	Alexey Paulot
+	Simic Cauldron
+	Alexey Paulot won 2-0-0
+6	Philippe Gareau
+	Mono-Blue Cauldron
+	Willy Edel
+	Domain Ramp
+	Philippe Gareau won 2-0-0
+7	Kazune Kosaka
+	Esper Midrange
+	Chris Ferber
+	Rakdos Sacrifice
+	Kazune Kosaka won 2-1-0
+8	cain_rianhard
+	Grixis Midrange
+	Marcio Carvalho
+	Mono-Red Aggro
+	cain_rianhard won 2-0-0
+9	Damian Buckley
+	Esper Midrange
+	Gabriel Nassif
+	Domain Ramp
+	Damian Buckley won 2-1-0
+10	Matt Foreman
+	Domain Ramp
+	Seth Manfield
+	Domain Ramp
+	Seth Manfield won 2-1-0
+11	Alan Andrzejewski
+	Esper Midrange
+	thomas mechin
+	Esper Legends
+	Alan Andrzejewski won 2-1-0
+12	Lorenzo Terlizzi
+	Esper Midrange
+	Zen Takahashi
+	Rakdos Reanimator
+	Lorenzo Terlizzi won 2-1-0
+13	MASAHIDE MORIYAMA
+	Esper Legends
+	kyosuke kyogoku
+	Mono-Red Aggro
+	MASAHIDE MORIYAMA won 2-1-0
+14	Rei Hirayama
+	Esper Midrange
+	David Olsen
+	Mono-Blue Cauldron
+	Rei Hirayama won 2-1-0
+15	Samuel Pardee
+	Mono-White Humans
+	CHYE HWEE HENG
+	Mono-Red Aggro
+	Samuel Pardee won 2-1-0
+16	Mitchell Tamblyn
+	Golgari Midrange
+	Jake Beardsley
+	Domain Ramp
+	Jake Beardsley won 2-0-0
+17	Matti Kuisma
+	Esper Control
+	Alexander von Stange
+	Esper Midrange
+	Alexander von Stange won 2-1-0
+18	Jim Tim Lee
+	Esper Midrange
+	Adriano Moscato
+	Esper Midrange
+	Adriano Moscato won 2-0-0
+19	RockyLin
+	Esper Midrange
+	Karl Sarap
+	Esper Control
+	RockyLin won 2-1-0
+20	Benton Madsen
+	Rakdos Sacrifice
+	Jim Davis
+	Mono-White Humans
+	Benton Madsen won 2-0-0
+21	Alexander Hayne
+	Azorius Tokens
+	John Daroen Sahagun
+	Azorius Control
+	John Daroen Sahagun won 2-0-0
+22	Marco cammilluzzi
+	Esper Control
+	Thoralf Severin
+	Mono-White Humans
+	Marco cammilluzzi won 2-1-0
+23	Javier Dominguez
+	Golgari Midrange
+	Sui Dong
+	Invasion of Alara
+	Javier Dominguez won 2-1-0
+24	Miguel Castro
+	Rakdos Reanimator
+	Shota Yasooka
+	Sultai Faeries
+	Miguel Castro won 2-0-0
+25	Bradley Schlesinger
+	Domain Ramp
+	Socrates Rozakeas
+	Golgari Midrange
+	Socrates Rozakeas won 2-1-0

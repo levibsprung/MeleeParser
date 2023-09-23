@@ -75,8 +75,7 @@ with open('worlds_lv.txt', 'r', encoding='ISO-8859-1') as file:
             
         else:
             matchup_df.loc[len(matchup_df)] = [deck1, deck2, player1_mw, player1_ml, player1_w, player1_l]
-            matchup_df.loc[len(matchup_df)] = [deck2, deck1, player1_ml, player1_mw, player1_l, player1_w]
-print(matchup_df[matchup_df['Deck'] == 'Selesnya Enchantments'])            
+            matchup_df.loc[len(matchup_df)] = [deck2, deck1, player1_ml, player1_mw, player1_l, player1_w]        
             
 deck_df = matchup_df.groupby("Deck", as_index=False).agg({"Match W": "sum", "Match L": "sum"})
 deck_df['winrate'] = deck_df['Match W']/(deck_df['Match W'] + deck_df['Match L']) 
