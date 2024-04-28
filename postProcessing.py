@@ -13,7 +13,11 @@ class postProcessor:
     def identifyMetagame(self):
         players = {}
         for i in range(0, len(self.data), 5):
-            player1, deck1, player2, deck2, result = self.data[i:i + 5]
+            player1 = self.data[i]
+            deck1 = self.data[i + 2]
+            player2 = self.data[i + 1]
+            deck2 = self.data[i + 3]
+            result = self.data[i + 4]
             player1, deck1, player2, deck2, result = player1.strip(), deck1.strip(), player2.strip(), deck2.strip(), result.strip()
             if deck1 not in players:
                 players[deck1] = set()
@@ -30,7 +34,11 @@ class postProcessor:
 
     def generateMatrix(self):
         for i in range(0, len(self.data), 5):
-            player1, deck1, player2, deck2, result = self.data[i:i + 5]
+            player1 = self.data[i]
+            deck1 = self.data[i + 2]
+            player2 = self.data[i + 1]
+            deck2 = self.data[i + 3]
+            result = self.data[i + 4]
             player1, deck1, player2, deck2, result = player1.strip(), deck1.strip(), player2.strip(), deck2.strip(), result.strip()
             if deck1 == deck2 or "Draw" in result:
                 continue
@@ -41,8 +49,8 @@ class postProcessor:
                 deck2 = "Other"
 
             winner = result.split(" won")[0].strip()
-            winning_deck = deck1 if winner == player1 else deck2
-            losing_deck = deck1 if winner == player2 else deck2
+            winning_deck = deck1 if winner in player1 else deck2
+            losing_deck = deck1 if winner in player2 else deck2
 
             if winning_deck not in self.matchupDicts.keys():
                 self.matchupDicts[winning_deck] = {}
@@ -60,7 +68,6 @@ class postProcessor:
             for matchup in self.matchupDicts[deck].keys():
                 wins, losses = self.matchupDicts[deck][matchup]
                 self.matchupDicts[deck][matchup] = [wins / (wins + losses), wins + losses]
-
     def generateChart(self):
         flat_data = {"Deck": [], "Opponent": [], "Win Rate (%)": [], "Sample Size": []}
         for deck, opponents in self.matchupDicts.items():
@@ -81,7 +88,6 @@ class postProcessor:
         win_rate_pivot = win_rate_pivot[cols]
         sample_size_pivot = sample_size_pivot[cols]
         annotations = win_rate_pivot.astype(str) + "\n\n(n=" + sample_size_pivot.astype(str) + ")"
-
         plt.figure(figsize=(10, 10))
         sns.heatmap(win_rate_pivot, annot=annotations, fmt="", linewidths=.5, cmap="RdYlGn", cbar=False)
         plt.tick_params(top=True, bottom=False, labeltop=True, labelbottom=False)
@@ -90,7 +96,7 @@ class postProcessor:
 
 
 if __name__ == "__main__":
-    pp = postProcessor("pt_lotr.txt")
+    pp = postProcessor("pt_otj.txt")
     pp.identifyMetagame()
     pp.generateMatrix()
     pp.generateChart()

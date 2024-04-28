@@ -4,15 +4,15 @@ player_df = pd.DataFrame(columns=['Name', 'Deck', 'Match W', 'Match L', 'Game W'
 matchup_df = pd.DataFrame(columns=['Deck', 'Opposing Deck', 'Match W', 'Match L', 'Game W', 'Game L'])
 
 
-with open('worlds_lv.txt', 'r', encoding='ISO-8859-1') as file:
+with open('pt_otj.txt', 'r', encoding='ISO-8859-1') as file:
     while True:
         line = file.readline()
         if not line:
             break
         name1 = line.strip()
-        deck1 = file.readline().strip()
         
         name2 = file.readline().strip()
+        deck1 = file.readline().strip()
         deck2 = file.readline().strip()
         
         result = file.readline().strip().split()
