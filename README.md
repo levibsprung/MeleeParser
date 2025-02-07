@@ -1,0 +1,1 @@
+Spent a bit of time implementing this code to parse deck winrates for Magic: The Gathering from text files copied and pasted from [melee.gg](melee.gg). Eventually realized this was not worth my time as Frank Karsten does the same thing but better.
